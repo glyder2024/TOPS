@@ -1,0 +1,26 @@
+<ol>
+<li>What are the three main layers of software architecture? Write one line about each.</li>
+Answer:- 1.Presentation Layer (UI Layer): Handles the user interface and displays information to users while receiving their input.
+         2.Business Logic Layer (Application Layer): Processes data, applies business rules, and controls how the application works.
+         3.Data Layer (Database Layer): Stores, retrieves, and manages data from databases or other storage systems.
+
+<li>Define client and server in your own words with one real-life example.</li>
+Answer:- Client: A client is a device or application that sends a request to access a service or data.
+
+         Server: A server is a computer or program that receives the client's request, processes it, and sends back the required information.
+
+         Real-life example: When you open YouTube on your phone, your phone (the client) requests a video, and YouTube's server sends the video back for you to watch.
+         
+<li>Write 2 differences each between desktop apps, web apps, and mobile apps.</li>
+Answer:- Application type          diff 1                                              diff 2
+          1.Desktop app        Installed directly on a computer or laptop.          Usually work without an internet connection.
+          2.Web app            Run in a web browser without installation.           Usually require an internet connection to use.
+          3.Mobile app         Installed on smartphones or tablets.                 Designed for touch screens and use phone features like GPS and camera.
+          
+<li>Name any 3 databases and mention whether each is SQL or NoSQL.</li>
+Answer:- Database                   Type
+          1.MySQL                    SQL
+          2.PostgreSQL               SQL
+          3.MongoDB                 NoSQL
+          
+</ol>
