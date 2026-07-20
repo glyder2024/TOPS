@@ -1,0 +1,37 @@
+<ol>
+<li>Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP.</li>
+Answer:- Term            Full Form                                Uses
+        1.HTTP          HyperText Transfer Protocol             Used to transfer web pages and data between a web browser and a web server.
+        2.HTTPS         HyperText Transfer Protocol Secure      Used to securely transfer web pages and data by encrypting communication between the browser and server.
+        3.FTP           File Transfer Protocol                  Used to upload and download files between a computer and a server over a network.
+        4.SMTP          Simple Mail Transfer Protocol           Used to send emails from an email client to a mail server or between mail servers.
+        
+<li>What is the difference between IPv4 and IPv6? Answer in 2 lines.</li>
+Answer:- IPv4 uses 32-bit addresses (e.g., 192.168.1.1) and supports about 4.3 billion unique IP addresses,
+         which are now becoming limited due to the growth of internet-connected devices.
+
+        IPv6 uses 128-bit addresses (e.g., 2001:db8::1) and provides an almost unlimited number of unique IP addresses.
+        It also offers better security, improved network performance, and more efficient routing than IPv4.
+        
+<li>Run nslookup google.com on your system and write down the IP address you get.</li>
+Answer:-  192.178.174.102
+
+<li>What do these HTTP status codes mean: 200, 301, 404, 500, 403?</li>
+Answer:- HTTP Status code                   Meaning
+         1.200 OK                         The request was successful, and the server returned the requested resource.
+         2.301 Moved Permanently          The requested page has been permanently moved to a new URL, and the browser should use the new address.
+         3.403 Forbidden                  The server understands the request but refuses access because the user does not have permission.
+         4.404 Not Found                  The requested page or resource could not be found on the server.
+         5.500 Internal Server Error      The server encountered an unexpected problem and could not complete the request.
+         
+<li>Explain DNS hierarchy (root, TLD, domain, subdomain) with www.google.com as an example.</li>
+Answer:- The DNS (Domain Name System) hierarchy is a tree-like structure that helps convert a domain name (such as www.google.com) into 
+          an IP address that computers can understand.
+                Root (.)
+                  |
+                .com      ← Top-Level Domain (TLD)
+                  |
+              google      ← Domain Name
+                  |
+                 www       ← Subdomain (Host)
+</ol>
