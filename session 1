@@ -1,0 +1,39 @@
+<ol>
+<li>Name 5 IT job roles and write one line about what each role does.</li>
+Answer:- Software Developer – Designs, writes, tests, and maintains computer programs and applications.
+         Web Developer – Creates and maintains websites and web applications.
+         UI/UX Designer – Designs user-friendly and visually appealing digital products.
+         Cloud Engineer – Designs and manages cloud-based infrastructure and services.
+         Cybersecurity Analyst – Protects computer systems and networks from cyber threats by monitoring and improving security.
+
+<li>List 3 product companies and 3 service companies with one example of work each does.</li>
+Answer:- Product Companies
+          Google – Develops products like Google Search, Gmail, and Android.
+          Microsoft – Creates software products like Windows and Microsoft Office.
+          Apple – Designs and sells products like the iPhone, iPad, and MacBook.
+        Service Companies
+          Tata Consultancy Services (TCS) – Provides IT consulting and software development services for businesses.
+          Infosys – Offers software development, cloud, and digital transformation services.
+          Wipro – Provides IT support, cybersecurity, and business technology services for clients.
+
+<li>Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.</li>
+Answer:- Term       full form                                                       uses
+       1.github     github                                                       A platform used to store, manage, and collaborate on software code using Git.
+       2.Slack      Searchable Log of All Communication and Knowledge            A team communication tool used for messaging and collaboration.  
+       3.Jira       Jira                                                         A project management tool used to track tasks, bugs, and software development projects.
+       4.IDE        Integrated Development Environment                           A project management tool used to track tasks, bugs, and software development projects.
+       5.API        Application Programming Interface                            A set of rules that allows different software applications to communicate with each other.
+       
+<li>Name any 5 programming languages and mention one popular use case for each.</li>
+Answer:- Programming language             Popular uses
+          1.Python                      Data science, AI, and web development.
+          2.Java                        Android app development and enterprise applications.
+          3.c++                         Game development and high-performance software.
+          4.JavaScript                  Creating interactive websites and web applications.
+          5.Go                          Building fast backend services, cloud applications, and APIs.
+          
+<li>What is the difference between a developer and a tester? Answer in 2 lines.</li>
+Answer:- Developer: A developer writes, designs, and maintains the code to build software or applications and adds new features.
+         Tester: A tester checks the software for bugs, errors, and performance issues to make sure it works correctly and meets the required quality before it is released.
+         
+</ol>
